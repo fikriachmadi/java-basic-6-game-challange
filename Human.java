@@ -4,9 +4,8 @@ public class Human {
     int energy;
   
     public void walk() {
-      for (int i = 0; i < 7; i++) {
-      System.out.println(name + " sedang berjalan...");
-      energy -= 5; 
+      for (int i = 0; i < 60; i++) {
+      System.out.println(name + " sedang berjalan..."); 
       }
     }
   }

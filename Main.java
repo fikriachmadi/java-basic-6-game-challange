@@ -11,7 +11,7 @@ class Main extends Human {
       hero.sit();
       hero.attack();
   
-      //Group 8: walk 1x, run 5x, eat 4x, drink 2x, walk 6x, jump x4, sit 2x, attack 4x
+      //Group 8: run 5x, eat 4x, drink 2x, walk 60x, jump x4, sit 2x, attack 4x
       
       hero.player();
       hero.checkEnergy();
